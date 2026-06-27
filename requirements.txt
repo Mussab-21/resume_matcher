@@ -1,0 +1,8 @@
+streamlit
+pydantic
+pdfminer.six
+python-docx
+spacy
+sentence-transformers
+scikit-learn
+https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.7.0/en_core_web_md-3.7.0.tar.gz
